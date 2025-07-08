@@ -1,4 +1,4 @@
-# Devoir 2 - 8INF867 : Entraînement d'un PMC, d'un réseau de neurones profond de type CNN et transfert d'apprentissage
+Entraînement d'un PMC, d'un réseau de neurones profond de type CNN et transfert d'apprentissage
 
 **Auteur** : Brice CHABI  
 **Date de remise** : 2 avril 2025
