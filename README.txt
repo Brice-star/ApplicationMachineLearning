@@ -1,8 +1,6 @@
 Entraînement d'un PMC, d'un réseau de neurones profond de type CNN et transfert d'apprentissage
 
 **Auteur** : Brice CHABI  
-**Date de remise** : 2 avril 2025
-**Code permanent** : CHAB23070000 
 
 ---
 
