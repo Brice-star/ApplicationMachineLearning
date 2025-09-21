@@ -1,6 +1,6 @@
 Entraînement d'un PMC, d'un réseau de neurones profond de type CNN et transfert d'apprentissage
 
-**Auteur** : Brice CHABI  
+**Auteur** : Brice   
 
 ---
 
